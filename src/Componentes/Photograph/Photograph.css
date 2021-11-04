@@ -1,0 +1,13 @@
+.form-border{
+    border: 10px solid rgb(3, 246, 246);
+}
+.bg{
+ background-color: rgb(3, 246, 246);
+ /* width: fit-content; */
+ /* text-align: center ; */
+ 
+}
+.team img{
+width: 150px;
+height: 150px;  
+}

@@ -1,0 +1,49 @@
+.service-banar{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.479), rgba(220, 20, 60, 0.616)),url(https://cdn-ccnjl.nitrocdn.com/FFlOINYZCUxrEWbcRFzJMkRxycjLZyST/assets/static/optimized/rev-2c547dc/blog/wp-content/uploads/2018/12/Untitled-design-1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    color: rgb(1, 247, 255);
+}
+.service-banar h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+
+/* ............... */
+.service-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    /* grid-gap:20px; */
+    grid-row-gap: 20px;
+}
+.package-container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap:40px;
+    /* grid-row-gap: 10px; */
+}
+
+@media only screen and (max-width: 480px) {
+	.service-container { 
+        grid-template-columns: repeat(1,1fr);
+     }
+}
+
+.card{
+    /* margin: auto; */
+    background-color: rgba(3, 26, 39, 0.726);
+    width: 350px;
+}
+
+p a i{
+    font-size: 30px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+
+    /* color: rgb(0, 255, 255); */
+    color: crimson;
+}
+

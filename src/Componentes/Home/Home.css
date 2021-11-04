@@ -1,0 +1,30 @@
+.banar{
+background-image: linear-gradient(#0f0e0fca, #141313b9),url(https://streetsense.com/wp-content/uploads/2021/03/Streetsense_Puerto-Rico-Thumb.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
+height: 400px;
+margin: auto;
+/* opacity: 0.8; */
+/* background-color: black; */
+}
+.text-color{
+    color:crimson;
+    font-weight: bold;
+    font-size: 50px;
+}
+.bg-img-tour{
+    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/intro/img/parallax/para-3.jpg);
+}
+.bg-tourist-guid{
+    background-image: linear-gradient(#0f0e0fca, #141313b9),url(https://lifebeyondnumbers.b-cdn.net/wp-content/uploads/2017/05/must-visit-places-bangladesh.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
+height: 400px;
+margin: auto;
+color: white;
+    
+}

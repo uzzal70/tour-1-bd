@@ -1,0 +1,8 @@
+.bg-footer{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.479), rgba(220, 20, 60, 0.616)),url(https://cdn-ccnjl.nitrocdn.com/FFlOINYZCUxrEWbcRFzJMkRxycjLZyST/assets/static/optimized/rev-2c547dc/blog/wp-content/uploads/2021/08/Goa-Tourism-Update.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    color: rgb(1, 247, 255);
+}
