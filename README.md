@@ -1,7 +1,13 @@
 # project Name: Tour 1 bd
 This website service multiple tour packages 
 
-# live link:()
+• React JS, Node JS, Express JS, Mongo DB, CSS framework Bootstrap has been used in this project.
+• Users can be booking packages
+• Packages Add and Delete a Packages
+• Users can register and login on to this site
+• This website is Responsive
+
+Live Link https://tourofbd-ec17d.web.app/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
